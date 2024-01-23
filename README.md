@@ -13,3 +13,6 @@ MAILER_EMAIL=algo@gmail.com
 MAILER_SECRET_KEY=121212121
 PROD=true
 ```
+
+3. Ejecutar el comando ```npm install```.
+4. Ejecutar el comando ```npm  run dev```.
